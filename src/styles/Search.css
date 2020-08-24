@@ -50,3 +50,7 @@
     color: rgba(222, 220, 220, 0.657);
     background-image: -webkit-linear-gradient(top, rgba(39, 34, 34, 0.411), rgba(32, 28, 28, 0.541));
 }
+
+.search__buttonsHidden {
+    display: none !important;
+}
